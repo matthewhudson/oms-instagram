@@ -1,8 +1,8 @@
 {
-  "name": "oms-nodejs",
+  "name": "oms-instagram",
   "private": true,
   "version": "0.0.1",
-  "description": "An Open Microservice template for Node.js",
+  "description": "An Open Microservice for Instagram",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
@@ -13,9 +13,9 @@
   "author": "Matthew Hudson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matthewhudson/oms-nodejs/issues"
+    "url": "https://github.com/matthewhudson/oms-instagram/issues"
   },
-  "homepage": "https://github.com/matthewhudson/oms-nodejs#readme",
+  "homepage": "https://github.com/matthewhudson/oms-instagram#readme",
   "keywords": [
     "microservice",
     "oms"
