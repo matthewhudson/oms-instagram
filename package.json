@@ -16,8 +16,12 @@
     "url": "https://github.com/matthewhudson/oms-nodejs/issues"
   },
   "homepage": "https://github.com/matthewhudson/oms-nodejs#readme",
-  "keywords": ["microservice", "oms"],
+  "keywords": [
+    "microservice",
+    "oms"
+  ],
   "dependencies": {
+    "axios": "^0.19.0",
     "body-parser": "1.19.0",
     "express": "4.17.1"
   },
